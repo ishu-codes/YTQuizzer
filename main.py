@@ -42,14 +42,6 @@ with st.container():
 link = ''
 pressed = False
 
-st.markdown("""
-        <style>
-            .viewerBadge_container__r5tak {
-                display: none;
-            }        
-        </style>
-    """, unsafe_allow_html=True)
-
 # Home page
 if selected == 'Home':
     with st.container():
