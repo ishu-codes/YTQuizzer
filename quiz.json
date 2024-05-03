@@ -1,0 +1,62 @@
+[
+    {
+        "question": "When did the author initially join their computer science program?",
+        "answer": "2014 May",
+        "wrong_answer1": "2014 June",
+        "wrong_answer2": "2014 July"
+    },
+    {
+        "question": "Which profession does the author believe is a great alternative to the tech industry?",
+        "answer": "Real estate",
+        "wrong_answer1": "Manufacturing",
+        "wrong_answer2": "Construction"
+    },
+    {
+        "question": "According to the author, why do certain tech startups fail?",
+        "answer": "Over-engineering",
+        "wrong_answer1": "Lack of funding",
+        "wrong_answer2": "Poor marketing"
+    },
+    {
+        "question": "What does the author suggest is the most valuable skill for a tech professional to possess?",
+        "answer": "Strong communication skills",
+        "wrong_answer1": "Adaptability to different programming stacks",
+        "wrong_answer2": "Ability to manage multiple projects"
+    },
+    {
+        "question": "Which of the following is NOT mentioned as a benefit of building a non-technical co-founding team?",
+        "answer": "Increased focus on business priorities",
+        "wrong_answer1": "Faster product development",
+        "wrong_answer2": "Enhanced quality of code"
+    },
+    {
+        "question": "What does the author recommend as a way to avoid becoming overly obsessed with tech?",
+        "answer": "Finding non-technical people to have dinner conversations with",
+        "wrong_answer1": "Taking breaks from coding",
+        "wrong_answer2": "Setting a specific work schedule"
+    },
+    {
+        "question": "According to the author, what is a key difference between tech professionals who stay in the field long-term and those who leave?",
+        "answer": "Passion for problem-solving",
+        "wrong_answer1": "Desire for monetary gain",
+        "wrong_answer2": "Ability to learn quickly"
+    },
+    {
+        "question": "Which of the following does the author believe is a sign of true curiosity in tech?",
+        "answer": "Willingness to learn new programming languages",
+        "wrong_answer1": "Focus on understanding the underlying principles",
+        "wrong_answer2": "Preference for working on only familiar projects"
+    },
+    {
+        "question": "What does the author emphasize is NOT a realistic goal for tech employees?",
+        "answer": "Becoming a billionaire",
+        "wrong_answer1": "Reaching a high salary",
+        "wrong_answer2": "Achieving industry recognition"
+    },
+    {
+        "question": "According to the author, what will continue to drive the need for tech professionals in the future?",
+        "answer": "The emergence of new industries",
+        "wrong_answer1": "The increasing complexity of technology",
+        "wrong_answer2": "The growing population of tech-savvy consumers"
+    }
+]
