@@ -1,4 +1,3 @@
-<<<<<<< main
 import ast
 import google.generativeai as genai
 import os
