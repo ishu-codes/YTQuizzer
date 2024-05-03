@@ -74,4 +74,3 @@ def get_quiz(transcript):
     model = genai.GenerativeModel("gemini-pro")
     ans = (model.generate_content(template + transcript)).text
     return ans
->>>>>>> 5cad994 env loading
