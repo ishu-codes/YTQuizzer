@@ -9,7 +9,8 @@
 
 ### Video Summarization:
 > - **Youtube_transcript_api:** This library will be crucial for extracting transcripts from YouTube videos, providing the textual basis for summarization.
-> - **Google-generativeai:** The Gemeni 1.0 Pro model will be used to generate quizzes and summaries.
+> - **Google Gemini 1.0 Pro:** This library takes the input of YouTube video transcript, and then generating summary of the video along with quiz questions and options.
+> - **OpenAI ChatGPT 3.5 Turbo:** These library is providing responses to the queries asked by the user in the Chatbot section.
 
 ### Interactive Quizzes:
 > - **Streamlit:** This framework will serve as the foundation for building the user interface, allowing users to interact with the quizzes and view their results.
@@ -49,4 +50,5 @@
 
 ## Conclusion:
 > By leveraging the power of Streamlit, NLP libraries, and other chosen tools, Quizify offers a robust and engaging learning platform. Its ability to summarize videos, generate quizzes, and provide chatbot assistance personalizes and enhances the learning experience, making it a valuable tool for a wide range of users.
-https://quizify.streamlit.app/
+
+ https://quizify.streamlit.app/
