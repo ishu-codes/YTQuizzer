@@ -49,6 +49,6 @@
 > - **User Interface:** Streamlit, along with streamlit-option-menu and streamlit-shadcn-ui, creates a user-friendly interface for accessing summaries, taking quizzes, and interacting with the chatbot.
 
 ## Conclusion:
-> By leveraging the power of Streamlit, NLP libraries, and other chosen tools, Quizify offers a robust and engaging learning platform. Its ability to summarize videos, generate quizzes, and provide chatbot assistance personalizes and enhances the learning experience, making it a valuable tool for a wide range of users.
+> By leveraging the power of Streamlit and other chosen tools, Quizify offers a robust and engaging learning platform. Its ability to summarize videos, generate quizzes, and provide chatbot assistance personalizes and enhances the learning experience, making it a valuable tool for a wide range of users.
 
  https://quizify.streamlit.app/
