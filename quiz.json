@@ -1,0 +1,62 @@
+[
+    {
+        "question": "In what year did the speaker complete their computer science degree?",
+        "answer": "2014",
+        "wrong_answer1": "2024",
+        "wrong_answer2": "2015"
+    },
+    {
+        "question": "What is the speaker's view on chasing fast outcomes in software development?",
+        "answer": "It's necessary for short-term gains.",
+        "wrong_answer1": "It's not recommended in the long run.",
+        "wrong_answer2": "It's the only way to succeed in the industry."
+    },
+    {
+        "question": "According to the speaker, what is a sign that the tech industry will continue to grow?",
+        "answer": "The increasing use of technology in everyday life.",
+        "wrong_answer1": "The development of new programming languages.",
+        "wrong_answer2": "The rise of e-commerce."
+    },
+    {
+        "question": "What does the speaker suggest individuals focus on to develop a long-term interest in computer science?",
+        "answer": "Learning multiple programming stacks.",
+        "wrong_answer1": "Getting involved in coding communities.",
+        "wrong_answer2": "Taking online courses."
+    },
+    {
+        "question": "According to the speaker, what is the primary difference between a person who has core interest in computer science and someone who does not?",
+        "answer": "The level of curiosity for exploring new technologies.",
+        "wrong_answer1": "The amount of time spent coding.",
+        "wrong_answer2": "The specific programming languages they use."
+    },
+    {
+        "question": "What is the speaker's advice for individuals who want to stay in tech for a long-term career?",
+        "answer": "Find a team that aligns with their interests.",
+        "wrong_answer1": "Learn new programming stacks regularly.",
+        "wrong_answer2": "Attend industry conferences and workshops."
+    },
+    {
+        "question": "According to the speaker, what is a common problem faced by startups founded by technical co-founders?",
+        "answer": "Overengineering the product.",
+        "wrong_answer1": "Underestimating the importance of marketing.",
+        "wrong_answer2": "Lack of funding."
+    },
+    {
+        "question": "What does the speaker recommend to startups when it comes to building a product?",
+        "answer": "Focus on creating a scrappy, functional product first.",
+        "wrong_answer1": "Prioritize user feedback early in the development process.",
+        "wrong_answer2": "Hire a large team of engineers."
+    },
+    {
+        "question": "According to the speaker, what is a sign that an individual is passionate about computer science?",
+        "answer": "Spending free time reading about technology.",
+        "wrong_answer1": "Participating in coding challenges.",
+        "wrong_answer2": "Avoiding coding as much as possible."
+    },
+    {
+        "question": "What does the speaker believe is the biggest misconception about the tech industry?",
+        "answer": "It's easy to become a billionaire as a tech employee.",
+        "wrong_answer1": "There is no ceiling to salary in tech.",
+        "wrong_answer2": "All tech employees are highly passionate about coding."
+    }
+]
