@@ -31,6 +31,7 @@ def get_quiz(transcript):
     ]
     Make sure that your output is in english even if prompted in hindi or any other language
     You must adhere to this format as it's optimized for further Python processing.
+    Always make sure to generate response in English as it is very important for further python processing.
     """
     model = genai.GenerativeModel("gemini-pro")
     ans = (model.generate_content(template + transcript)).text
