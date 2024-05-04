@@ -64,3 +64,6 @@ Quizify is an innovative Python-based project designed to enhance the learning e
 ## Checkout the live working
 
 https://quizify.streamlit.app/
+
+
+...........................................................................................................................................................................................
