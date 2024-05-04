@@ -1,1 +1,16 @@
+
+# Py cache
 __pycache__/
+
+# Virtual env
+venv
+
+# IDEs
+.idea/
+.vscode
+
+# Extra files
+requirements2.txt
+
+# Environment variables
+.streamlit/secrets.toml
