@@ -10,7 +10,6 @@ import prompt
 import summariser
 import transcriptor
 
-# Function to highlight maximum values in a DataFrame
 
 import os
 openai_api_key = os.getenv("OPENAI_API_KEY")
@@ -63,16 +62,9 @@ if selected == 'Home':
 # Summaries page
 if selected == "Summary":
     with st.container():
-        # Function to read and display the text file
-        # def view_text_file(file):
-        #    text = file.read()  # Read the uploaded file
-        #    return text
 
         # Display the summary text
         st.markdown("# Summary of the video:")
-
-        # a = summariser.get_summary(transcriptor.get_transcript(link))
-        # st.write(a)
 
         # Read the content of the summary.txt file
         with open("sum.txt", "r") as f:
