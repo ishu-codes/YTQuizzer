@@ -15,18 +15,12 @@ class Summary:
                 st.text("Make sure that you pasted the YouTube URL correctly!")
                 return
 
-            st.markdown("# Summary of the video:")
-
+            st.markdown("# Video summary:")
             # a = summariser.get_summary(transcriptor.get_transcript(link))
-            # st.write(a)
 
-            # Read the content of the summary.txt file
-            with open("sum.txt", "r") as f:
-                summary_text = f.read()
-            st.write(summary_text)
+            st.write(file_content)
             with open("sum.txt", "w") as f:
                 f.write("")
-            st.write("")
 
 def main():
     page = Summary()

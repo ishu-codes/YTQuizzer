@@ -1,13 +1,11 @@
 import streamlit as st
 from openai import OpenAI, RateLimitError
-from os import environ
 
 class Chatbot:
     def __init__(self) -> None:
         pass
 
     def load(self):
-        environ["OPENAI_API_KEY"] = st.secrets.openAi_api.key
         client = OpenAI()
 
         st.session_state.setdefault("model", "gpt-3.5-turbo")

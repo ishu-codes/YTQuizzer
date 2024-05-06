@@ -12,7 +12,7 @@ class Home:
     def load(self):
         with st.container():
             st.markdown("""### Enter the YouTube URL""")
-            link = st.text_input("", placeholder="Paste the link here")
+            link = st.text_input(" ", placeholder="Paste the link here")
 
             if st.button("Get Summary"):
                 try:
@@ -22,8 +22,9 @@ class Home:
                         with open("quiz.json", "w") as json_file:
                             json_file.write('')
                         jsonification.lists_of_lists_to_json(prompt.get_quiz(t), 'quiz.json')
-                        pressed = True
-                    st.write("please go to the summary and quiz page to view the generated summary and quiz respectively.")
+                        # pressed = True
+                    st.success("Summary and quiz generated successfully!", icon="✔")
+                    st.write("Now you can read summary and attempt quiz!")
                 except RateLimitError as error:
                     st.error(error.body['message'])
 

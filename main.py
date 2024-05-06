@@ -1,5 +1,6 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
+from os import environ
 
 from contents.Home import Home
 from contents.Summary import Summary
@@ -12,7 +13,8 @@ class App:
     __NAVBAR_ICONS = ['house', 'book', 'code-slash', 'robot']
 
     def __init__(self) -> None:
-        pass
+        environ["GOOGLE_API_KEY"] = st.secrets.GOOGLE_API_KEY
+        environ["OPENAI_API_KEY"] = st.secrets.OPENAI_API_KEY
 
     def load(self):
         st.set_page_config(
@@ -22,7 +24,6 @@ class App:
             initial_sidebar_state="collapsed",
         )
 
-        # Navbar
         with st.container():
             navbar = option_menu(
                 menu_title=None,

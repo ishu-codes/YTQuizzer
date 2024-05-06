@@ -1,62 +1,62 @@
 [
     {
-        "question": "In what year did the speaker complete their computer science degree?",
-        "answer": "2014",
-        "wrong_answer1": "2024",
-        "wrong_answer2": "2015"
+        "question": "What architectural change has helped improve Intel's battery life advantage?",
+        "answer": "The introduction of Meteor Lake",
+        "wrong_answer1": "The addition of Thunderbolt ports",
+        "wrong_answer2": "Increased power efficiency in the new CPUs"
     },
     {
-        "question": "What is the speaker's view on chasing fast outcomes in software development?",
-        "answer": "It's necessary for short-term gains.",
-        "wrong_answer1": "It's not recommended in the long run.",
-        "wrong_answer2": "It's the only way to succeed in the industry."
+        "question": "Why does the Zenbook 14 OLED with its lower power CPUs have worse battery life than the Lenovo Yoga Pro 7?",
+        "answer": "Asus's light load power management needs improvement",
+        "wrong_answer1": "The Yoga Pro 7 has a higher capacity battery",
+        "wrong_answer2": "The Zenbook 14 OLED's screen consumes more power"
     },
     {
-        "question": "According to the speaker, what is a sign that the tech industry will continue to grow?",
-        "answer": "The increasing use of technology in everyday life.",
-        "wrong_answer1": "The development of new programming languages.",
-        "wrong_answer2": "The rise of e-commerce."
+        "question": "Which port type has a significant speed advantage on the Zenbook 14 OLED?",
+        "answer": "USB 4",
+        "wrong_answer1": "USB 3.2 Gen 2",
+        "wrong_answer2": "HDMI 2.1"
     },
     {
-        "question": "What does the speaker suggest individuals focus on to develop a long-term interest in computer science?",
-        "answer": "Learning multiple programming stacks.",
-        "wrong_answer1": "Getting involved in coding communities.",
-        "wrong_answer2": "Taking online courses."
+        "question": "Why is the performance of the Asus Zenbook 14 OLED with the Intel Core Ultra 755h significantly lower than the Lenovo Yoga Pro 7?",
+        "answer": "Asus is undervolting the CPU",
+        "wrong_answer1": "The Yoga Pro 7 has a better cooling system",
+        "wrong_answer2": "The Zenbook 14 OLED's power limits are too restrictive"
     },
     {
-        "question": "According to the speaker, what is the primary difference between a person who has core interest in computer science and someone who does not?",
-        "answer": "The level of curiosity for exploring new technologies.",
-        "wrong_answer1": "The amount of time spent coding.",
-        "wrong_answer2": "The specific programming languages they use."
+        "question": "In which type of workload does the Intel Core Ultra 755h have a significant advantage over the AMD Ryzen 7 8845 in a true Apples-to-Apples comparison?",
+        "answer": "Creator applications",
+        "wrong_answer1": "Gaming",
+        "wrong_answer2": "Office apps"
     },
     {
-        "question": "What is the speaker's advice for individuals who want to stay in tech for a long-term career?",
-        "answer": "Find a team that aligns with their interests.",
-        "wrong_answer1": "Learn new programming stacks regularly.",
-        "wrong_answer2": "Attend industry conferences and workshops."
+        "question": "Why has AMD lost its historical advantage in igp gaming?",
+        "answer": "Intel's Arc graphics engine is more powerful",
+        "wrong_answer1": "AMD's drivers have limitations",
+        "wrong_answer2": "AMD's CPUs require more power for gaming"
     },
     {
-        "question": "According to the speaker, what is a common problem faced by startups founded by technical co-founders?",
-        "answer": "Overengineering the product.",
-        "wrong_answer1": "Underestimating the importance of marketing.",
-        "wrong_answer2": "Lack of funding."
+        "question": "According to the video, which of the following is NOT a criticism of AMD's Ryzen 8000 series?",
+        "answer": "It does not offer a significant performance improvement over the Ryzen 7000 series",
+        "wrong_answer1": "It is not as power efficient as Intel's Core Ultra 7 series",
+        "wrong_answer2": "It is too expensive"
     },
     {
-        "question": "What does the speaker recommend to startups when it comes to building a product?",
-        "answer": "Focus on creating a scrappy, functional product first.",
-        "wrong_answer1": "Prioritize user feedback early in the development process.",
-        "wrong_answer2": "Hire a large team of engineers."
+        "question": "Why does the author recommend waiting to buy a new laptop until next year?",
+        "answer": "Zen 5 and Lunar Lake architectures are expected to offer significant improvements",
+        "wrong_answer1": "Current-generation laptops are not a good value",
+        "wrong_answer2": "There are likely to be better deals on 2023 models in the future"
     },
     {
-        "question": "According to the speaker, what is a sign that an individual is passionate about computer science?",
-        "answer": "Spending free time reading about technology.",
-        "wrong_answer1": "Participating in coding challenges.",
-        "wrong_answer2": "Avoiding coding as much as possible."
+        "question": "What is the main reason for the inconsistent performance of Arc graphics in gaming?",
+        "answer": "Driver limitations",
+        "wrong_answer1": "CPU power constraints",
+        "wrong_answer2": "Poor optimization for certain games"
     },
     {
-        "question": "What does the speaker believe is the biggest misconception about the tech industry?",
-        "answer": "It's easy to become a billionaire as a tech employee.",
-        "wrong_answer1": "There is no ceiling to salary in tech.",
-        "wrong_answer2": "All tech employees are highly passionate about coding."
+        "question": "Which laptop manufacturer is criticized for optimizing one CPU architecture over another in their Zenbook line?",
+        "answer": "Asus",
+        "wrong_answer1": "Lenovo",
+        "wrong_answer2": "Dell"
     }
 ]

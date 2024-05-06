@@ -14,3 +14,6 @@ requirements2.txt
 
 # Environment variables
 .streamlit/secrets.toml
+
+# Design files
+/Design
